@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks and Courses etc**
 
-- 👨‍💻 All of my projects are available at [https://sarthak1802.github.io/BASICpotfolio/port.html](https://sarthak1802.github.io/BASICpotfolio/port.html)
+- 👨‍💻 All of my projects are available at [https://portfolio-main-sigma.vercel.app/](https://portfolio-main-sigma.vercel.app/)
 
 - 💬 Ask me about **Javascript , C++ , Web design**
 
